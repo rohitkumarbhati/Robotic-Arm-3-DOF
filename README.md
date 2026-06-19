@@ -195,21 +195,25 @@ Robotic-Arm-3-DOF
 
 ## Images
 
-### Robot Configuration
+### End Effector Trajectory
 
-![Robot Arm](images/robot_arm.png)
+![End Effector Trajectory](images/End_Effector_Trajectory.png)
 
-### Workspace Analysis
+### PID Tracking Error
 
-![Workspace](images/workspace.png)
+![PID Tracking Error](images/PID_Tracking_Error.png)
 
-### Trajectory Planning
+### PID Joint Angle Tracking
 
-![Trajectory](images/trajectory.png)
+![PID Joint Angle Tracking](images/PID_Joint_Angle_Tracking.png)
 
-### PID Response
+### Serial UART
 
-![Control Signals](images/control_response.png)
+![Serial UART](images/Serial_UART.png)
+
+### 3DOF Robot arm
+
+![3DOF Robot arm](images/3DOF_Robot_arm.png)
 
 ---
 
