@@ -173,7 +173,7 @@ The simulation demonstrated negligible inverse kinematic error and satisfactory 
 Robotic-Arm-3-DOF
 │
 ├── Code
-│   └── RobotArmSimulation.m
+│   └── roboticarm3dof.m
 │
 ├── images
 │   ├── End_Effector_Trajectory.png
