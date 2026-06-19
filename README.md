@@ -219,7 +219,7 @@ Robotic-Arm-3-DOF
 
 ## Demonstration Video
 
-https://github.com/user-attachments/assets/your-video-link
+[Watch the 3DOF Robotic Arm Video](video/roboticarm3dof.mp4)
 
 ---
 
